@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-jetwani&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-jetwani" /> </p>
 
-- 🔭 I’m currently working on **oddsage.com**, **datizmo.com**
+- 🔭 I’m currently working on **oddsage.com****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
